@@ -8,3 +8,5 @@ The program consists of two classes: MainJane.java (the scraper itself), and Inp
 ![Selenium](https://www.selenium.dev/documentation/en/selenium_installation/)
 
 ![Jsoup](https://jsoup.org/download)
+
+<sub><sup>not for use on iheartjane sites</sup></sub>
